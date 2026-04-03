@@ -1,0 +1,8 @@
+streamlit
+librosa
+soundfile
+tensorflow
+scikit-learn
+google-generativeai
+python-dotenv
+numpy
